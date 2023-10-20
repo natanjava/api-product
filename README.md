@@ -1,3 +1,3 @@
-# spring-api-bootstrap
+# Api Product
 
-Frontend built with Bootstrap framework to consume a rest API developed with Spring Boot, using requests via AJAX.
+API built in Java/Spring. There are methods to add and remove product.
